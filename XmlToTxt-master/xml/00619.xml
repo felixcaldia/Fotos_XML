@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars_train</folder>
+	<filename>00619.jpg</filename>
+	<path>C:\Users\Tracatra\OneDrive - Centre d'Estudis Monlau\Proyecto\Proyecto2\Proyecto\cars_train\00619.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>36</ymin>
+			<xmax>307</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

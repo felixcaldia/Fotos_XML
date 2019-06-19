@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars_train</folder>
+	<filename>00230.jpg</filename>
+	<path>I:\Centre d'Estudis Monlau\FÉLIX CALVO DÍAZ DE CERIO - Proyecto\Proyecto2\Proyecto\cars_train\00230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3699</width>
+		<height>2775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>535</ymin>
+			<xmax>3690</xmax>
+			<ymax>2474</ymax>
+		</bndbox>
+	</object>
+</annotation>
